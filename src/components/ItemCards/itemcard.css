@@ -1,0 +1,10 @@
+.figure {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-top: 2.5rem;
+}
+.card-b {
+  border-radius: 1rem;
+  min-height: 21em;
+}
