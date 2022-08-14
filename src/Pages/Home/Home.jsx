@@ -15,6 +15,7 @@ const Home = () => {
                 title={item.name}
                 desc={item.description}
                 img={item.icon}
+                url={item.url}
                 key={index}
               />
             );
