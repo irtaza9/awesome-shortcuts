@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/awesome-shortcuts/static/css/main.3490989b.css",
+    "main.js": "/awesome-shortcuts/static/js/main.2335becb.js",
+    "index.html": "/awesome-shortcuts/index.html",
+    "main.3490989b.css.map": "/awesome-shortcuts/static/css/main.3490989b.css.map",
+    "main.2335becb.js.map": "/awesome-shortcuts/static/js/main.2335becb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3490989b.css",
+    "static/js/main.2335becb.js"
+  ]
+}
