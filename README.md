@@ -27,7 +27,7 @@
   <a href="#arifszn"><img src="https://arifszn.github.io/assets/img/drop-shadow.png" width="50%" alt="Shadow"/></a>
 </p>
 
-## Web + PWA
+## Web
 
 [https://irtaza9.github.io/awesome-shortcuts/](https://irtaza9.github.io/awesome-shortcuts/)
 
