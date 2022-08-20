@@ -20,7 +20,7 @@
 
 
 <p align="center">
-  <a href="https://awesomeshortcuts.netlify.app">
+  <a href="https://irtaza9.github.io/awesome-shortcuts/">
     <img src="https://user-images.githubusercontent.com/45073703/180604705-f1c0309d-1772-4518-9255-5c3978d96f5d.png" alt="Preview" width="60%"/>
   </a>
   <br/>
@@ -126,17 +126,13 @@
 ## Support
 
 <p>You can show your support by starring this project.</p>
-<a href="https://github.com/arifszn/awesome-shortcuts/stargazers">
-  <img src="https://img.shields.io/github/stars/arifszn/awesome-shortcuts?style=social" alt="Github Star">
+<a href="https://github.com/irtaza9/awesome-shortcuts/stargazers">
+  <img src="https://img.shields.io/github/stars/irtaza9/awesome-shortcuts?style=social" alt="Github Star">
 </a>
 
 ## Contributing
 
 To contribute, see the [contributing guide](https://github.com/arifszn/awesome-shortcuts/blob/main/CONTRIBUTING.md).
-
-## License
-
-[GPL-3.0 License](https://github.com/arifszn/awesome-shortcuts/blob/main/LICENSE)
 
 
 # Getting Started with Create React App
