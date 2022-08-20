@@ -130,11 +130,6 @@
   <img src="https://img.shields.io/github/stars/irtaza9/awesome-shortcuts?style=social" alt="Github Star">
 </a>
 
-## Contributing
-
-To contribute, see the [contributing guide](https://github.com/arifszn/awesome-shortcuts/blob/main/CONTRIBUTING.md).
-
-
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
